@@ -65,7 +65,7 @@
     line-height: normal;
     padding-top: 165px;
     padding-left: 50px;
-    padding-right: 50px;    
+    padding-right: 50px;  
 }
 
 .aligned-text {
@@ -84,7 +84,7 @@
 
 .aligned-text_right {
     text-align: right;
-    line-height: 1.20; 
+    line-height: 1.20;
 }
 
 .letter-spacing-extended {
@@ -194,7 +194,7 @@
 
 .card__text {
     color: #fff;
-    font-size: 20px;      
+    font-size: 20px; 
 }
 
 .lots__look-more-link {
